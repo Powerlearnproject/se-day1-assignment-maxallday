@@ -2,6 +2,7 @@ SE_Day1_Assignment
 
 #Part 1: Introduction to Software Engineering
 Which of the following best describes software engineering?
+The process of designing, developing, and maintaining software
 1.Explain what software engineering is and discuss its importance in the technology industry
 software engineering is a branch of computer science used for developing, testing and maintaining software.
 reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
